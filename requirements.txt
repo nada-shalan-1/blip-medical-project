@@ -1,0 +1,7 @@
+torch
+transformers
+pillow
+numpy
+jupyter
+matplotlib
+seaborn
